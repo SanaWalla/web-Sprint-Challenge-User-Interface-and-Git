@@ -144,3 +144,30 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.top {
+    margin-top: 2rem;
+}
+
+.about {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.freeway {
+    margin: 2rem 0;
+}
